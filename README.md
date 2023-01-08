@@ -7,12 +7,12 @@ I'm studying Computer Science, minoring in Math and Business, at Brandeis Univer
 **Computer Science**
 
 Skills:
-
-<ul>Programming Languages: Python (expert), JavaScript (expert), Java (intermediate), Rust (intermediate)</ul>
-<ul>Frameworks/Libraries: Node.js, Express.js, Flask, Sails.js, React.js, Next.js, Redux.js, jQuery, MERN Stack, Rocket, Matplotlib, NumPy, Pandas, JUnit</ul>
-<ul>Databases/Devops: MongoDB, SQLAlchemy, Amazon S3, Heroku, Docker</ul>
-<ul>Tools/Technologies: EC2, Linode, Git/GitHub, Figma, web scraping, REST API, Unit/Integration Testing, TLA+</ul>
-
+<ul>
+<li>Programming Languages: Python (expert), JavaScript (expert), Java (intermediate), Rust (intermediate)</li>
+<li>Frameworks/Libraries: Node.js, Express.js, Flask, Sails.js, React.js, Next.js, Redux.js, jQuery, MERN Stack, Rocket, Matplotlib, NumPy, Pandas, JUnit</li>
+<li>Databases/Devops: MongoDB, SQLAlchemy, Amazon S3, Heroku, Docker</li>
+<li>Tools/Technologies: EC2, Linode, Git/GitHub, Figma, web scraping, REST API, Unit/Integration Testing, TLA+</li>
+</ul>
 Relevent Courses: 
 
 Object Oriented Programming, Data Structures & Algorithms, Natural Language Processing, Software Entrepreneurship, Software Engineering, Web Development, Operating Systems, Calculus, Proofs, Game Theory
