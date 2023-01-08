@@ -2,7 +2,7 @@
 
 **About me**
 
-I'm studying Computer Science, minoring in Math and Business, at Brandeis University (Class of 2025). I'm currently working on Branda, an information app for Brandeis University used by over 90% of the campus. There I develop CI/CD pipelines and lead the development of components, integration, and end-to-end testing. I have also interned at Israeli tech startup <a href='https://athletar.io/'>AthletAR</a>, where I worked on a hybrid reality sports analyzer using computer vision. I have also been a Teaching Assistant for courses such as OOP and Data Structures and Algorithms.
+I'm studying Computer Science, minoring in Math and Business, at Brandeis University (Class of 2025). I'm currently working on <a href='https://branda.app/'>Branda</a>, an information app for Brandeis University used by over 90% of the campus. There I develop CI/CD pipelines and lead the development of components, integration, and end-to-end testing. I have also interned at Israeli tech startup <a href='https://athletar.io/'>AthletAR</a>, where I worked on a hybrid reality sports analyzer using computer vision. I have also been a Teaching Assistant for courses such as OOP and Data Structures and Algorithms.
 
 **Computer Science**
 
