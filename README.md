@@ -2,9 +2,7 @@
 
 **About me**
 
-I'm studying Computer Science, minoring in Math and Business, at Brandeis University (Class of 2025). I'm currently working on <a href='https://branda.app/'>Branda</a>, an information app for Brandeis University used by over 90% of the campus. There I develop CI/CD pipelines and lead the development of components, integration, and end-to-end testing. I have also interned at Israeli tech startup , where I worked on a hybrid reality live sports game analyzer using computer vision. I have also been a Teaching Assistant for courses such as OOP and Data Structures and Algorithms.
-
- I have also interned at tech startups in the US and Israel, namely <a href='https://athletar.io/'>AthletAR</a> and <a href='https://www.inbe.io/' target='_blank'>InBe</a>, where I worked on a hybrid reality live sports game analyzer using computer vision and an advanced content indexing and recommendation system with system design and algorithms comparable to that of Google's.
+I'm studying Computer Science, minoring in Math and Business, at Brandeis University (Class of 2025). I'm currently working on <a href='https://branda.app/'>Branda</a>, an information app for Brandeis University used by over 90% of the campus. There I develop CI/CD pipelines and lead the development of components, integration, and end-to-end testing. I have also interned at tech startups in the US and Israel, namely <a href='https://athletar.io/'>AthletAR</a> and <a href='https://www.inbe.io/' target='_blank'>InBe</a>, where I worked on a hybrid reality live sports game analyzer using computer vision and an advanced content indexing and recommendation system with system design and algorithms comparable to that of Google's. On top of that, I am also a Teaching Assistant for COSI 12b, "Advanced Progamming Techniques in Java".
 
 **Computer Science**
 
