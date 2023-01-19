@@ -11,7 +11,7 @@ Skills:
 <li>Programming Languages: Python (expert), JavaScript (expert), Java (expert), Rust (intermediate)</li>
 <li>Frameworks/Libraries: Node.js, Express.js, Flask, Svelte, Sails.js, React.js, Next.js, Redux.js, jQuery, MERN Stack, Rocket, Matplotlib, NumPy, Pandas, JUnit</li>
 <li>Databases/Devops: MongoDB, SQLAlchemy, Amazon S3, Heroku, Docker, Kubernetes, Jenkins, Terraform</li>
-<li>Tools/Technologies: EC2, Linode, Git/GitHub, Figma, web scraping, REST API, Unit/Integration Testing, TLA+, LaTeX</li>
+<li>Tools/Technologies: EC2, Unix/Linux, Shell Scripting, Git/GitHub, Figma, web scraping, REST API, Unit/Integration Testing, TLA+, LaTeX</li>
 </ul>
 Relevent Courses: 
 
