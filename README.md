@@ -17,4 +17,4 @@ Relevent Courses:
 
 Object Oriented Programming, Data Structures & Algorithms, Natural Language Processing, Software Entrepreneurship, Software Engineering, Operating Systems, Functional Programming, Structure and Interpretation of Computer Programs, Calculus, Proofs, Game Theory
 
-See my personal site for more information: <a href='ArcherHeffern.github.io' target='_blank'>ArcherHeffern.github.io</a>
+See my personal site for more information: <a href='https://ArcherHeffern.github.io/' target='_blank'>ArcherHeffern.github.io</a>
