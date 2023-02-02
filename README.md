@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Archer!
 
-Check out my personal site <a href='https://ArcherHeffern.github.io/' target='_blank'>here</a>!
+Check out my <a href='https://ArcherHeffern.github.io/' target='_blank'>personal site</a>!
 
 **About me**
 
