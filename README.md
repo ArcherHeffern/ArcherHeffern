@@ -8,7 +8,7 @@ I'm studying Computer Science, minoring in Math and Business, at Brandeis Univer
 
 I am driven by the challenge of solving complex problems. I thrive in environments that push me to think outside the box and turn limitations into opportunities. My passion for ideation has led me to participate in various hackathons and collaborate with like-minded individuals on software projects that address real-world issues.
 
-"I am a strong advocate for using technology for positive impact. With my technical expertise and leadership skills, I strive to collaborate with organizations on the development of user-centered solutions that address the challenges faced by communities."
+I am a strong advocate for using technology for positive impact. With my technical expertise and leadership skills, I strive to collaborate with organizations on the development of user-centered solutions that address the challenges faced by communities.
 
 ### Computer Science
 
