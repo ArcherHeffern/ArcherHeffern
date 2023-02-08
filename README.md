@@ -20,6 +20,6 @@ I am a strong advocate for using technology for positive impact. With my technic
 <li>Tools/Technologies: EC2, Unix/Linux, Shell Scripting, Git/GitHub, Figma, web scraping, REST API, Unit/Integration Testing, TLA+, LaTeX</li>
 </ul>
 
-<b>Relevent Courses</b>: Object Oriented Programming, Data Structures & Algorithms, Natural Language Processing, Software Entrepreneurship, Software Engineering, Operating Systems, Functional Programming, Structure and Interpretation of Computer Programs, Calculus, Proofs, Game Theory
+<b>Relevent Courses</b>: Object Oriented Programming, Data Structures & Algorithms, Natural Language Processing, Software Entrepreneurship, Software Engineering, Operating Systems, Calculus, Proofs, Game Theory
 
 See my personal site for more information: <a href='https://ArcherHeffern.github.io/' target='_blank'>ArcherHeffern.github.io</a>
