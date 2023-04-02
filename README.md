@@ -15,9 +15,9 @@ I am a strong advocate for using technology for positive impact. With my technic
 <b>Skills</b>:
 <ul>
 <li>Programming Languages: Python (expert), JavaScript (expert), Java (expert), Rust (intermediate)</li>
-<li>Frameworks/Libraries: Node.js, Express.js, Flask, Svelte, Sails.js, React.js, Next.js, Redux.js, jQuery, MERN Stack, Rocket, Matplotlib, NumPy, Pandas, JUnit</li>
-<li>Databases/Devops: MongoDB, SQLAlchemy, Amazon S3, Heroku, Docker, Kubernetes, Jenkins, Terraform</li>
-<li>Tools/Technologies: EC2, Unix/Linux, Shell Scripting, Git/GitHub, Figma, web scraping, REST API, Unit/Integration Testing, TLA+, LaTeX</li>
+<li>Frameworks/Libraries: Flask, Node, Express.js, SvelteKit, React, Next, jQuery, MERN Stack, Rocket, Matplotlib, NumPy, Pandas, JUnit</li>
+<li>Databases/Devops: PostgreSQL, SQLite, SQLAlchemy, MongoDB, Amazon S3, Heroku, Docker, Kubernetes</li>
+<li>Tools/Technologies: EC2, Unix/Linux, Shell Scripting, Git/GitHub, Figma, web scraping, REST API, Unit/Integration Testing</li>
 </ul>
 
 <b>Relevent Courses</b>: Object Oriented Programming, Data Structures & Algorithms, Natural Language Processing, Software Entrepreneurship, Software Engineering, Operating Systems, Calculus, Proofs, Game Theory
