@@ -16,7 +16,7 @@ I am a strong advocate for using technology for positive impact. With my technic
 <ul>
 <li>Programming Languages: Python (expert), JavaScript (expert), Java (expert), Rust (intermediate)</li>
 <li>Frameworks/Libraries: Flask, Node, Express.js, SvelteKit, React, Next, jQuery, MERN Stack, Rocket, Matplotlib, NumPy, Pandas, JUnit</li>
-<li>Databases/Devops: PostgreSQL, SQLite, SQLAlchemy, MongoDB, Amazon S3, Heroku, Docker, Kubernetes</li>
+<li>Databases/Devops: PostgreSQL, SQLite, SQLAlchemy, MongoDB, Amazon S3, Cloud Firebase, Heroku, Docker, Kubernetes, Nginx</li>
 <li>Tools/Technologies: EC2, Unix/Linux, Shell Scripting, Git/GitHub, Figma, web scraping, REST API, Unit/Integration Testing</li>
 </ul>
 
