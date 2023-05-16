@@ -1,26 +1,59 @@
-# Hi there 👋, I'm Archer!
+<h1 align="center"><img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="65"></h1>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=200&duration=2500&pause=0&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=true&width=973&height=183&lines=Hi+there!+I'm+Archer%2C+and+I'm+a+problem+solver+with+a+passion+for+digital+;innovation.+I+thrive+on+the+challenge+of+overcoming+limitations+in+my+;environment%2C+and+I+derive+great+satisfaction+from+transforming+them+into;+sources+of+inspiration+and+ideation.+This+passion+drives+me+to+seek+out+new;+opportunities+to+innovate+and+create+meaningful+solutions+that+make+a;+difference+in+the+world." alt="Typing SVG" /></a>
+</p>
+</p>
+</p>
+<br>
+<br>
+<br>
+<h2 align="center">💻 &nbsp; Languages &nbsp; 💻</h2>
+<br>
+<br>
 
-#### Check out my <a href='https://ArcherHeffern.github.io/' target='_blank'>personal site</a>!
+<p align="center">
+  <img height="120em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=archerheffern&layout=compact&hide_border=false&langs_count=4&bg_color=0E1117&theme=github_dark&custom_title=Languages%20I%20Use%20Frequently"/>
+</p>
 
-## About me
 
-I'm studying Computer Science, minoring in Math and Business, at Brandeis University (Class of 2025). I'm currently working on <a href='https://branda.app/' target='_blank'>Branda</a>, an information app for Brandeis University used by over 90% of the campus. There I develop CI/CD pipelines and lead the development of components, integration, and end-to-end testing. I have also interned at tech startups in the US and Israel, namely <a href='https://athletar.io/' target='_blank'>AthletAR</a> and <a href='https://www.inbe.io/' target='_blank'>InBe</a>, where I worked on a hybrid reality live sports game analyzer using computer vision and an advanced content indexing and an advanced content recommendation system. On top of that, I am also a Teaching Assistant for COSI 12b, "Advanced Progamming Techniques in Java".
+<br>
+<h2 align="center">📚 &nbsp;Tech I <i>Love</i> Using</i> &nbsp;📚 </h2>
+<br>
+<br>
 
-I am driven by the challenge of solving complex problems. I thrive in environments that push me to think outside the box and turn limitations into opportunities. My passion for ideation has led me to participate in various hackathons and collaborate with like-minded individuals on software projects that address real-world issues.
+<div align="center">
+  <img alt="Client" height="120em" src="https://github-readme-tech-stack.vercel.app/api/cards?title=Client&align=center&borderRadius=5.5&fontSize=22&lineHeight=10&lineCount=2&theme=github_dark&gap=11&line1=react,react,61DAFB;next.js,next.js,ffffff;svelte,svelte,ff3400;&line2=css3,css,1572B6;jquery,jquery,0769AD;redux,redux,764ABC;figma,figma,3A76F0;"/>
+  <img height="120em" alt="Server" src="https://github-readme-tech-stack.vercel.app/api/cards?title=Server&align=center&borderRadius=5.5&fontSize=22&lineHeight=10&lineCount=2&theme=github_dark&gap=9&line1=express,express,ffffff;Firebase,Firebase,FFCA28;&line2=amazonaws,aws,FF9900;flask,flask,ffffff;postman,postman,FF6C37;"/>
+  <img alt="Storage" height="120em" src="https://github-readme-tech-stack.vercel.app/api/cards?title=Server&align=center&borderRadius=5.5&fontSize=22&lineHeight=10&lineCount=2&theme=github_dark&gap=9&line1=express,express,ffffff;Firebase,Firebase,FFCA28;&line2=amazonaws,aws,FF9900;flask,flask,ffffff;postman,postman,FF6C37;"/>
+</div>
 
-I am a strong advocate for using technology for positive impact. With my technical expertise and leadership skills, I strive to collaborate with organizations on the development of user-centered solutions that address the challenges faced by communities.
+<br>
+<h2 align="center">💫 &nbsp; Fun Projects &nbsp; 💫 </h2>
+<br>
+<br>
 
-### Computer Science
+<p align="center">
+  <a href="https://github.com/ArcherHeffern/Dijkstras-Algorithm-From-Scratch">
+    <img height="120em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=archerheffern&repo=Dijkstras-Algorithm-From-Scratch&show_owner=true&theme=github_dark"/>
+  </a>
+  <a href="https://github.com/ArcherHeffern/ScrapeTamid">
+    <img height="120em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=archerheffern&repo=scrapetamid&show_owner=true&theme=github_dark"/>
+  </a>
+  <a href="https://github.com/ArcherHeffern/deishacks2023">
+      <img height="120em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=archerheffern&repo=deishacks2023&show_owner=true&theme=github_dark"/>
+  </a>
+  </p>
 
-<b>Skills</b>:
-<ul>
-<li>Programming Languages: Python (expert), JavaScript (expert), Java (expert), Rust (intermediate)</li>
-<li>Frameworks/Libraries: Flask, Node, Express.js, SvelteKit, React, Next, jQuery, MERN Stack, Rocket, Matplotlib, NumPy, Pandas, JUnit</li>
-<li>Databases/Devops: PostgreSQL, SQLite, SQLAlchemy, MongoDB, Amazon S3, Cloud Firebase, Heroku, Docker, Kubernetes, Nginx</li>
-<li>Tools/Technologies: EC2, Unix/Linux, Shell Scripting, Git/GitHub, Figma, web scraping, REST API, Unit/Integration Testing</li>
-</ul>
+<br>
+<h2 align="center">⚙️ &nbsp; GitHub Stats &nbsp; ⚙️</h2>
+<br>
+<br>
 
-<b>Relevent Courses</b>: OOP, Python, System Design, Data Structures & Algorithms, NLP, Software Entrepreneurship,
-Software Engineering, Operating Systems, Calculus, Proofs, Game Theory
+<p align="center">
+    <img alt="GitHubStats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=archerheffern&count_private=true&theme=github_dark&hide_title=true&hide_rank=true&show_icons=true&card_width=290&include_all_commits=false&hide=contribs" />
+</p>
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=archerheffern&label=Peeks&color=000000&style=for-the-badge" alt="Profile-Views">
+</div>
 See my personal site for more information: <a href='https://ArcherHeffern.github.io/' target='_blank'>ArcherHeffern.github.io</a>
