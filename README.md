@@ -33,6 +33,9 @@
 <br>
 
 <p align="center">
+  <a href="https://github.com/ArcherHeffern/FoodSystem">
+      <img height="120em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=archerheffern&repo=FoodSystem&show_owner=true&theme=github_dark"/>
+  </a>
   <a href="https://github.com/ArcherHeffern/Dijkstras-Algorithm-From-Scratch">
     <img height="120em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=archerheffern&repo=Dijkstras-Algorithm-From-Scratch&show_owner=true&theme=github_dark"/>
   </a>
