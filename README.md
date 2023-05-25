@@ -24,7 +24,7 @@
 <div align="center">
   <img alt="Client" height="120em" src="https://github-readme-tech-stack.vercel.app/api/cards?title=Client&align=center&borderRadius=5.5&fontSize=22&lineHeight=10&lineCount=2&theme=github_dark&gap=11&line1=react,react,61DAFB;next.js,next.js,ffffff;svelte,svelte,ff3400;&line2=css3,css,1572B6;jquery,jquery,0769AD;redux,redux,764ABC;figma,figma,3A76F0;"/>
   <img height="120em" alt="Server" src="https://github-readme-tech-stack.vercel.app/api/cards?title=Server&align=center&borderRadius=5.5&fontSize=22&lineHeight=10&lineCount=2&theme=github_dark&gap=9&line1=express,express,ffffff;Firebase,Firebase,FFCA28;&line2=amazonaws,aws,FF9900;flask,flask,ffffff;postman,postman,FF6C37;"/>
-  <img alt="Storage" height="120em" src="https://github-readme-tech-stack.vercel.app/api/cards?title=Storage&align=center&borderRadius=5.5&fontSize=22&lineHeight=10&lineCount=1&theme=github_dark&gap=9&line1=PostgreSQL,PostgreSQL,4169E1;mongodb,MongoDB,47A248;redis,redis,DC382D;SQLite,SQLite,ffffff;"/>
+  <img alt="Storage" height="120em" src="https://github-readme-tech-stack.vercel.app/api/cards?title=Storage&align=center&borderRadius=5.5&fontSize=22&lineHeight=10&lineCount=2&theme=github_dark&gap=9&line1=PostgreSQL,PostgreSQL,4169E1;amazondynamodb,dynamodb,4053D6&line2=mongodb,MongoDB,47A248;redis,redis,DC382D;SQLite,SQLite,ffffff;"/>
 </div>
 
 <br>
