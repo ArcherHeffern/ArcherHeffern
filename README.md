@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="65"></h1>
-<p align="center">
+<!-- <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=200&duration=2500&pause=0&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=true&width=973&height=183&lines=Hi+there!+I'm+Archer%2C+and+I'm+a+problem+solver+with+a+passion+for+digital+;innovation.+I+thrive+on+the+challenge+of+overcoming+limitations+in+my+;environment%2C+and+I+derive+great+satisfaction+from+transforming+them+into;+sources+of+inspiration+and+ideation.+This+passion+drives+me+to+seek+out+new;+opportunities+to+innovate+and+create+meaningful+solutions+that+make+a;+difference+in+the+world." alt="Typing SVG" /></a>
 </p>
 </p>
@@ -9,7 +9,7 @@
 <br>
 <h2 align="center">💻 &nbsp; Languages &nbsp; 💻</h2>
 <br>
-<br>
+<br> -->
 
 <p align="center">
   <img height="120em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=archerheffern&layout=compact&hide_border=false&langs_count=6&bg_color=0E1117&theme=github_dark&custom_title=Languages%20I%20Use%20Frequently"/>
