@@ -61,4 +61,3 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=archerheffern&label=Peeks&color=000000&style=for-the-badge" alt="Profile-Views">
 </div>
-See my personal site for more information: <a href='https://ArcherHeffern.github.io/' target='_blank'>ArcherHeffern.github.io</a>
